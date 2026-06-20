@@ -8,7 +8,7 @@ a="Hello"  # string variable ''  "" """"""
 a=True  # boolean variable
 a=1+1j  # complex variable
 a=1,2,3,4  # tuple variable ()
-a= set([1,2,3,4])  # list variable []
+a= [1,2,3,4]  # list variable []
 a= {1,2,3,4}  # set variable {}
 a= {1: "one", 2: "two", 3: "three"}  # dictionary variable {}
 
